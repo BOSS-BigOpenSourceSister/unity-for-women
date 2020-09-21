@@ -36,21 +36,21 @@ public class Moedas : MonoBehaviour
 
             coins++;
             CoinText.text = "Coins: " + coins;
-            Coin.transform.position = new Vector3(Coin.transform.position.x, Coin.transform.position.y, -10);
+            Coin.transform.position = new Vector3(Coin.transform.position.x, 10, -100);
                       
         }
 
         if(other.gameObject.CompareTag("Moeda1")){
             coins++;
             CoinText.text = "Coins: " + coins;
-            Coin1.transform.position = new Vector3(Coin1.transform.position.x, Coin1.transform.position.y, -10);
+            Coin1.transform.position = new Vector3(Coin1.transform.position.x, 10, -100);
                       
         }
 
         if(other.gameObject.CompareTag("Moeda2")){
             coins++;
             CoinText.text = "Coins: " + coins;
-            Coin2.transform.position = new Vector3(Coin2.transform.position.x, Coin2.transform.position.y, -10);
+            Coin2.transform.position = new Vector3(Coin2.transform.position.x, 10, -100);
                       
         }
         
