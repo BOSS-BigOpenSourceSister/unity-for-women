@@ -54,7 +54,7 @@ namespace PartIV
 		// OnCollisionEnter2D is called whenever the player hits something
 		void OnCollisionEnter2D(Collision2D other)
 		{
-			Debug.Log("Collision with: " + other.gameObject.name);
+			//Debug.Log("Collision with: " + other.gameObject.name);
 			if (other.contacts[0].normal == Vector2.up)
 			{
 				isJumping = false;

@@ -5,9 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
-  - Moeda
   - Moeda1
   - Moeda2
+  - Moeda0
+  - Moeda
   layers:
   - Default
   - TransparentFX
