@@ -1,4 +1,4 @@
-# Animação de Pulo - Revisado
+# Animação de Pulo do Personagem
 
 ![imagens/record.gif](imagens/record.gif)
 
