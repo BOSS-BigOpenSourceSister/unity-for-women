@@ -2,4 +2,4 @@
 
 Nessa pasta vamos disponibilizar vários tutoriais para utilizar e customizar o material produzido no workshop
 
-
+## [Adicionando Moedas](./Moedas.md)
