@@ -4,7 +4,7 @@ Familiarizar o público com o uso da Unity.
 # Decisões
 
 Gênero: jogo de plataforma
-Asset: 
+Asset:
 [Free Platform Game Assets - Bayat Games](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
 [Sound FX - Retro Pack](https://assetstore.unity.com/packages/audio/sound-fx/sound-fx-retro-pack-121743)
 
@@ -119,6 +119,7 @@ Modificar script para mostrar um texto de vitória
 Mostrar botão para trocar de cena
 Usar mesma lógica no player health para derrota
 Parar de mover o player
+Adicionar inimigos com outros padrões(Buraco e Inimigo que cai)
 
 ## Parte IV: new assets and build (45 min)
 Animações
@@ -174,4 +175,3 @@ Adicionar mais inimigos com outros padrões
 Quando você passa embaixo ele cai
 Quando você cai no buraco você morre
 Adicionar animação nos inimigos
-
