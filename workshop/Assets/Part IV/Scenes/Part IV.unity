@@ -1159,12 +1159,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &110333475 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3969902266363470034, guid: 29871cce2a4965bbcb471b041e263b90,
-    type: 3}
-  m_PrefabInstance: {fileID: 1746980239}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &130439534
 GameObject:
   m_ObjectHideFlags: 0
@@ -2427,7 +2421,7 @@ PrefabInstance:
     - target: {fileID: 2972457962925037679, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 2972457962925037679, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
@@ -2452,7 +2446,7 @@ PrefabInstance:
     - target: {fileID: 3969902266363470034, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
       propertyPath: m_TagString
-      value: Moeda1
+      value: Moeda
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -4162173398988867152, guid: 29871cce2a4965bbcb471b041e263b90, type: 3}
@@ -6898,12 +6892,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 10}
   m_EdgeRadius: 0
---- !u!1 &987917326 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3969902266363470034, guid: 29871cce2a4965bbcb471b041e263b90,
-    type: 3}
-  m_PrefabInstance: {fileID: 895903099265790346}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &992974031
 GameObject:
   m_ObjectHideFlags: 0
@@ -7741,12 +7729,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1125672774 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3969902266363470034, guid: 29871cce2a4965bbcb471b041e263b90,
-    type: 3}
-  m_PrefabInstance: {fileID: 369142559}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1133701706
 GameObject:
   m_ObjectHideFlags: 0
@@ -10145,13 +10127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coins: 0
-  i: 0
   CoinText: {fileID: 158808076}
-  Coins: []
-  MoedaRigid: {fileID: 0}
-  Coin: {fileID: 987917326}
-  Coin1: {fileID: 1125672774}
-  Coin2: {fileID: 110333475}
 --- !u!1 &1579030056
 GameObject:
   m_ObjectHideFlags: 0
@@ -11849,7 +11825,7 @@ PrefabInstance:
     - target: {fileID: 2972457962925037679, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2972457962925037679, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
@@ -11874,7 +11850,7 @@ PrefabInstance:
     - target: {fileID: 3969902266363470034, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
       propertyPath: m_TagString
-      value: Moeda2
+      value: Moeda
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -4162173398988867152, guid: 29871cce2a4965bbcb471b041e263b90, type: 3}
@@ -14359,7 +14335,7 @@ PrefabInstance:
     - target: {fileID: 3969902266363470034, guid: 29871cce2a4965bbcb471b041e263b90,
         type: 3}
       propertyPath: m_TagString
-      value: Moeda0
+      value: Moeda
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -4162173398988867152, guid: 29871cce2a4965bbcb471b041e263b90, type: 3}
